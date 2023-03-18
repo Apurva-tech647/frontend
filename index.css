@@ -1,21 +1,43 @@
 .header {
-background-color: grey;
-
-}
-.nav{
     background-color: grey;
+text-align: center;
+
 }
-.box{
-    display = flex;
-}
-.box1,.box2,.box3{
+
+.nav {
     background-color: grey;
-    padding:50px;
-    margin:20px;
-
+    text-align: center;
 }
 
-.footer{
+.box {
+    display: flex;
+    padding : 50px
+    text-align: center;
+}
+.box1 {
     background-color: grey;
+    padding: 30px;
+    
+    margin: 20px;
 }
 
+.box2 {
+    background-color: grey;
+    padding: 70px;
+    text-align: center;
+    margin: 20px;
+}
+
+.box3 {
+    background-color: grey;
+    padding: 50px;
+
+    margin: 20px;
+
+}
+
+
+.footer {
+    background-color: grey;
+    text-align: center;
+}
